@@ -4,7 +4,7 @@ const rbx = require("noblox.js");
 const app = express();
 
 /* PUBLIC – OK TO HARDCODE */
-const groupId = 12345; // your group ID here
+const groupId = 706503944; // your group ID here
 
 /* SECRET – MUST BE ENV VAR */
 const cookie = process.env.ROBLOX_COOKIE;
